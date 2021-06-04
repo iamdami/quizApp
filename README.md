@@ -1,3 +1,3 @@
 # quizApp
 
-- dart + flutter + Django + sqllite
+- flutter + Django + sqllite
